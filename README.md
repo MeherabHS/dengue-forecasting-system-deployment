@@ -121,7 +121,7 @@ dengue-forecast/
 
 ---
 
-# ⚙️ Installation (Local Setup)
+#  Installation (Local Setup)
 
 Clone the repository:
 
