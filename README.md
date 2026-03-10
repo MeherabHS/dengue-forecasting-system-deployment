@@ -66,7 +66,7 @@ cases = exp(prediction) - 1
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 ```
 Historical Dengue Dataset
