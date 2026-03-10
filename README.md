@@ -257,7 +257,7 @@ API_BASE_URL = "https://dengue-yecr.onrender.com"
 
 ---
 
-# 📄 License
+#  License
 
 MIT License
 
